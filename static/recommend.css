@@ -1,0 +1,60 @@
+.mod_twocol_list_normal {
+    margin-bottom: 7px;
+}
+.mod_twocol_list {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.mod_twocol_list .list_title {
+    font-size: 16px;
+    color: #000;
+    margin-bottom: 11px;
+    font-weight: 400;
+}
+.mod_twocol_list .list_container {
+    overflow: hidden;
+    margin-right: -8px;
+}
+.mod_twocol_list li {
+    float: left;
+    width: 50%;
+    -webkit-box-sizing: border-box;
+    padding-right: 8px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+li {
+    list-style: none;
+}
+.mod_twocol_list li .list_main {
+    display: block;
+    background: #fff;
+}
+a {
+    text-decoration: none;
+	color: black;
+}
+.mod_twocol_list li .list_info {
+    padding: 0 7px 5px;
+    color: #000;
+}
+.mod_twocol_list li .list_tit {
+    font-size: 14px;
+}
+.mod_twocol_list li .list_text, .mod_twocol_list li .list_tit {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: 400;
+    font-size: 12px;
+}
+.mod_twocol_list li .list_text {
+    font-size: 12px;
+}
+.mod_twocol_list li .list_text, .mod_twocol_list li .list_tit {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: 400;
+    font-size: 12px;
+}
